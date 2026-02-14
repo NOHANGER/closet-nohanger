@@ -1,0 +1,7 @@
+{
+  "name": "DigiStyle - Smart Wardrobe",
+  "description": "A digital wardrobe and stylist app powered by Gemini AI. Organize your closet, plan outfits, and get AI styling advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
